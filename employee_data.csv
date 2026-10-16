@@ -1,0 +1,11 @@
+EmpID,Name,Age,Department,Salary
+101,Aarav Sharma,28.0,IT,65000.0
+102,Priya Patel,34.0,HR,52000.0
+103,Rohan Gupta,,Finance,78000.0
+104,Ananya Iyer,41.0,,60000.0
+105,Vikram Singh,29.0,IT,
+106,Neha Verma,35.0,Marketing,55000.0
+107,Karan Mehta,,HR,62000.0
+108,Divya Nair,38.0,,71000.0
+109,Amit Kumar,26.0,Finance,
+110,Sneha Joshi,32.0,IT,48000.0
